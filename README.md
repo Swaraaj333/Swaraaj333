@@ -1,51 +1,74 @@
-# Swaraaj Krishna
+<div align="center">
 
-**CSE Sophomore @ IIIT Delhi | Backend Engineering | Systems Programming | DSA**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Swaraaj+Krishna+%F0%9F%91%8B;Backend+Engineer+%7C+Systems+Programmer;CSE+Sophomore+%40+IIIT+Delhi" alt="Typing SVG" />
 
----
-
-### About Me
-
-I am a Computer Science undergraduate at IIIT Delhi with a strong interest in backend engineering, systems programming, and data structures & algorithms.
-
-I build things end to end — from production backend APIs handling real user traffic to low-level systems like Unix shells, ELF loaders, and RISC-V simulators constructed from first principles.
-
-Currently deepening my understanding of system design, distributed systems, and how large scale backend infrastructure is architected and maintained.
+</div>
 
 ---
 
-### Technical Skills
+<div align="center">
 
-**Languages:** C, C++, Python, Java  
-**Backend & Web:** Node.js, Express.js, Flask, REST APIs, MySQL  
-**Tools:** Git, GitHub, Linux, Bash, Render  
-**CS Fundamentals:** Data Structures & Algorithms, Operating Systems, DBMS, Computer Organization  
+I build things end to end — production APIs, Unix shells, ML models, and assemblers.
+Currently focused on backend engineering, systems programming, and DSA.
+
+</div>
 
 ---
 
-### Projects
+### 🛠 Tech Stack
 
-| Project | Tech Stack | Description |
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Things I've Built
+
+| Project | Stack | What it does |
 |---|---|---|
-| RISC-V Assembler & Simulator | Python | Two-pass assembler encoding 20+ instructions into binary with full instruction-level simulator |
-| OS Components | C, C++ | Unix shell, 32-bit ELF loader, priority-based process scheduler from scratch |
-| Judiciary Case Management System | Python, Flask, SQL | Full-stack web app managing cases, hearings, lawyers, judges with normalized relational schema |
-| Hemodynamic Shock Predictor | Python, Flask, ML | ML-based clinical prediction system evaluating multiple classifiers for shock onset detection |
-| University ERP System | Java, Swing, JDBC, MySQL | Role-based desktop ERP handling students, courses, enrollments with MVC architecture |
-| WhatsApp Chatbot Backend | Node.js, Express.js | Production backend integrated with Meta Cloud API, deployed live handling real user traffic |
+| 💬 WhatsApp Chatbot | Node.js, Express.js | Production backend with Meta Cloud API, deployed live |
+| 🖥 OS Components | C, C++ | Unix shell, ELF loader, process scheduler from scratch |
+| ⚙️ RISC-V Assembler | Python | Two-pass assembler + simulator for 20+ instructions |
+| ⚖️ Judiciary CMS | Flask, SQL | Full-stack case management with normalized schema |
+| 🧬 Shock Predictor | Python, ML | Clinical ML model predicting hemodynamic shock onset |
+| 🎓 University ERP | Java, MySQL | Role-based desktop ERP with MVC architecture |
 
 ---
 
-### Current Focus
+### 📈 GitHub Stats
 
-- Structured DSA problem solving — working through problems daily
-- Exploring system design principles and scalable backend architecture
-- Building projects that solve real problems and can scale
+<div align="center">
+
+![Swaraaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swaraaj333&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraaj333&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-### Connect
+### 🎯 Currently
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaraaj-krishna-2783b124a)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Swaraaj333)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swaraaj.krishna23@gmail.com)
+- Grinding DSA daily
+- Going deeper into system design
+- Pushing all projects to GitHub
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaraaj-krishna-2783b124a)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swaraaj333)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaraaj.krishna23@gmail.com)
+
+</div>
