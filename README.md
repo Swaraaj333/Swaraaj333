@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Swaraaj+Krishna+%F0%9F%91%8B;Backend+Engineer+%7C+Systems+Programmer;CSE+Sophomore+%40+IIIT+Delhi" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Swaraaj+Krishna;CSE+Sophomore+%40+IIIT+Delhi;Backend+%7C+Systems+%7C+DSA" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaraaj-krishna-2783b124a)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaraaj.krishna23@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-
-I build things end to end — production APIs, Unix shells, ML models, and assemblers.
-Currently focused on backend engineering, systems programming, and DSA.
-
-</div>
+I'm a CS undergrad at IIIT Delhi interested in **backend engineering**, **system design**, and **DSA**.
 
 ---
 
@@ -39,36 +37,15 @@ Currently focused on backend engineering, systems programming, and DSA.
 |---|---|---|
 | 💬 WhatsApp Chatbot | Node.js, Express.js | Production backend with Meta Cloud API, deployed live |
 | 🖥 OS Components | C, C++ | Unix shell, ELF loader, process scheduler from scratch |
-| ⚙️ RISC-V Assembler | Python | Two-pass assembler + simulator for 20+ instructions |
+| ⚙️ RISC-V Assembler | Python | Two-pass assembler and simulator for 20+ instructions |
 | ⚖️ Judiciary CMS | Flask, SQL | Full-stack case management with normalized schema |
 | 🧬 Shock Predictor | Python, ML | Clinical ML model predicting hemodynamic shock onset |
 | 🎓 University ERP | Java, MySQL | Role-based desktop ERP with MVC architecture |
 
 ---
 
-### 📈 GitHub Stats
-
 <div align="center">
 
 ![Swaraaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swaraaj333&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraaj333&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🎯 Currently
-
-- Grinding DSA daily
-- Going deeper into system design
-- Pushing all projects to GitHub
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaraaj-krishna-2783b124a)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swaraaj333)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaraaj.krishna23@gmail.com)
 
 </div>
