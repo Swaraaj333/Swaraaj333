@@ -11,6 +11,8 @@
 
 I'm a CS undergrad at IIIT Delhi interested in **backend engineering**, **system design**, and **DSA**.
 
+I like understanding how things work under the hood and building systems that are clean, scalable, and solve real problems.
+
 ---
 
 ### 🛠 Tech Stack
@@ -31,21 +33,6 @@ I'm a CS undergrad at IIIT Delhi interested in **backend engineering**, **system
 
 ---
 
-### 🚀 Things I've Built
-
-| Project | Stack | What it does |
-|---|---|---|
-| 💬 WhatsApp Chatbot | Node.js, Express.js | Production backend with Meta Cloud API, deployed live |
-| 🖥 OS Components | C, C++ | Unix shell, ELF loader, process scheduler from scratch |
-| ⚙️ RISC-V Assembler | Python | Two-pass assembler and simulator for 20+ instructions |
-| ⚖️ Judiciary CMS | Flask, SQL | Full-stack case management with normalized schema |
-| 🧬 Shock Predictor | Python, ML | Clinical ML model predicting hemodynamic shock onset |
-| 🎓 University ERP | Java, MySQL | Role-based desktop ERP with MVC architecture |
+### 📌 Pinned work is on my profile. Always building something new.
 
 ---
-
-<div align="center">
-
-![Swaraaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swaraaj333&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
