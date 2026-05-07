@@ -33,6 +33,7 @@ I like understanding how things work under the hood and building systems that ar
 
 ---
 
-### 📌 Pinned work is on my profile. Always building something new.
+### 🎯 Core Interests
+**Backend Engineering** · **System Design** · **Agentic AI** · **DSA**
 
 ---
