@@ -11,8 +11,6 @@
 
 I'm a CS undergrad at IIIT Delhi interested in **backend engineering**, **system design**, and **DSA**.
 
-I like understanding how things work under the hood and building systems that are clean, scalable, and solve real problems.
-
 ---
 
 ### 🛠 Tech Stack
